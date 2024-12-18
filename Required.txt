@@ -1,0 +1,9 @@
+untuk bisa menjalankan di pastikan sudah menginstall library berikut:
+1. opencv-python
+windows: pip install opencv-python
+
+2. deepface 
+windows: pip install deepface
+
+3. tf-keras
+windows: pip install tf-keras
